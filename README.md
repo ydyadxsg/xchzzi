@@ -3,7 +3,7 @@
 
   配置文件（qx） https://github.com/ydyadxsg/xchzzi/blob/main/Quantumultx/quantumult_20240221135511.conf
 
-  配置文件（小火箭）
+  配置文件（小火箭）https://github.com/ydyadxsg/xchzzi/blob/main/Quantumultx/shadowrocket.conf
 
 # 影视资源
   可可影视 https://kekys.com
