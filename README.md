@@ -1,7 +1,9 @@
-# Quantumultx
-  去广告分流 https://github.com/ydyadxsg/xchzzi/blob/main/QUGDGK.txt
+# 魔法
+  去广告分流（qx） https://github.com/ydyadxsg/xchzzi/blob/main/QUGDGK.txt
 
-  备份 https://github.com/ydyadxsg/xchzzi/blob/main/quantumult_20240221135511.conf
+  配置文件（qx） https://github.com/ydyadxsg/xchzzi/blob/main/quantumult_20240221135511.conf
+
+  配置文件（小火箭）
 
 # 影视资源
   可可影视 https://kekys.com
