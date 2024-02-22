@@ -1,7 +1,7 @@
 # 魔法
-  去广告分流（qx） https://github.com/ydyadxsg/xchzzi/blob/main/QUGDGK.txt
+  去广告分流（qx） https://github.com/ydyadxsg/xchzzi/blob/main/Quantumultx/QUGDGK.txt
 
-  配置文件（qx） https://github.com/ydyadxsg/xchzzi/blob/main/quantumult_20240221135511.conf
+  配置文件（qx） https://github.com/ydyadxsg/xchzzi/blob/main/Quantumultx/quantumult_20240221135511.conf
 
   配置文件（小火箭）
 
