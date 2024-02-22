@@ -7,3 +7,6 @@ quantumultx备份https://github.com/ydyadxsg/xchzzi/blob/main/quantumult_2024022
 
 
 # 安卓影视
+
+
+# 自用资源
