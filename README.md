@@ -3,12 +3,10 @@
 
   备份 https://github.com/ydyadxsg/xchzzi/blob/main/quantumult_20240221135511.conf
 
-# IOS影视
+# 影视资源
   可可影视 https://kekys.com
 
   追剧达人 https://zjos.cc
-
-# 安卓影视
 
 
 # 自用资源
