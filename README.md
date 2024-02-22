@@ -4,9 +4,9 @@
   quantumultx备份https://github.com/ydyadxsg/xchzzi/blob/main/quantumult_20240221135511.conf
 
 # IOS影视
-  可可影视kekys.com
+  可可影视https://kekys.com
 
-  追剧达人zjos.cc
+  追剧达人https://zjos.cc
 
 # 安卓影视
 
