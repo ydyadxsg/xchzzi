@@ -5,6 +5,8 @@
 
   配置文件（小火箭）https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/shadowrocket.conf
 
+  白嫖机场 https://t.me/jc_stores
+
 # 影视资源
   可可影视 https://kekys.com
 
