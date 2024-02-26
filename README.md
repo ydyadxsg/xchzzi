@@ -15,5 +15,6 @@
   追剧达人 [来吧官人](https://zjos.cc)
 
 # 自用资源
-好玩的 👉[戳戳戳](https://github.com/ydyadxsg/xchzzi/releases)
+好用的 👉[戳戳戳](https://github.com/ydyadxsg/xchzzi/releases)
 
+好玩的 👉[戳戳戳](https://thebyrut.org/)
