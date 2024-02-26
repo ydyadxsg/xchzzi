@@ -1,7 +1,5 @@
 # 魔法
-  去广告分流（qx） [🤪牛的嘞](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/QUGDGK.txt)
-
-  配置文件（qx） [备份](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/quantumultx.conf)
+  
 
   配置文件（小火箭）[猜猜哪来的](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/shadowrocket.conf)
 
