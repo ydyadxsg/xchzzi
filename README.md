@@ -15,5 +15,3 @@
 # 自用资源
 IDM重置工具箱 [戳戳戳](https://github.com/ydyadxsg/xchzzi/releases/tag/IDM)
 
-# 访问量
-![](http://profile-counter.glitch.me/elnfnoosm-iOS_network/count.svg)
