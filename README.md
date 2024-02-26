@@ -7,7 +7,7 @@
 
   白嫖机场 [白嫖怪](https://t.me/jc_stores)
 
-  quantumult x[模块合集](https://whatshub.top)
+  百宝箱[模块合集](https://whatshub.top)
 
 # 影视资源
   可可影视 [就是这儿](https://kekys.com)
