@@ -15,5 +15,5 @@
   追剧达人 [来吧官人](https://zjos.cc)
 
 # 自用资源
-IDM重置工具箱 [戳戳戳](https://github.com/ydyadxsg/xchzzi/releases/tag/IDM)
+好玩的 👉[戳戳戳](https://github.com/ydyadxsg/xchzzi/releases)
 
