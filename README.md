@@ -15,6 +15,12 @@
 # 自用资源
 好用的 👉[戳戳戳](https://github.com/ydyadxsg/xchzzi/releases)
 
-好玩的 👉[戳戳戳](https://thebyrut.org/)
+毛子网站 👉[戳戳戳](https://thebyrut.org/)
 
 正则表达式简要学习👉[戳戳戳](https://github.com/cdoco/learn-regex-zh?tab=readme-ov-file)
+
+哔站布局自定 👉[戳戳戳](https://github.com/BiliUniverse/Universe/wiki/%E2%9A%99-Enhanced#%E7%AE%80%E4%BB%8B)
+
+哔站自动换区 👉[戳戳戳](https://github.com/BiliUniverse/Universe/wiki/%F0%9F%8C%90-Global#%E7%AE%80%E4%BB%8B)
+
+哔站广告屏蔽 👉[戳戳戳](https://github.com/BiliUniverse/Universe/wiki/%F0%9F%9B%A1-ADBlock#%E7%AE%80%E4%BB%8B)
