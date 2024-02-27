@@ -12,6 +12,8 @@
 
   追剧达人 [来吧官人](https://zjos.cc)
 
+  电影猎手 [不太稳定](https://dmfilm.site/)
+
 # 自用资源
 好用的 👉[戳戳戳](https://github.com/ydyadxsg/xchzzi/releases)
 
