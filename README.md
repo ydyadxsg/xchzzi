@@ -14,6 +14,10 @@
 
   电影猎手 [不太稳定](https://dmfilm.site/)
 
+  搬运合集 [来自墨鱼](https://ddgksf2013.notion.site/IOS-Android-TV-Web-AppleTV-737275e3de2c4def86196d8c982ef86e)
+  
+  网站合集 [来自墨鱼](https://github.com/ddgksf2013/WebSite)
+
 # 自用资源
 好用的 👉[戳戳戳](https://github.com/ydyadxsg/xchzzi/releases)
 
