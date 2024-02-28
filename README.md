@@ -30,3 +30,5 @@
 哔站自动换区 👉[戳戳戳](https://github.com/BiliUniverse/Universe/wiki/%F0%9F%8C%90-Global#%E7%AE%80%E4%BB%8B)
 
 哔站广告屏蔽 👉[戳戳戳](https://github.com/BiliUniverse/Universe/wiki/%F0%9F%9B%A1-ADBlock#%E7%AE%80%E4%BB%8B)
+
+IDM激活     👉[戳戳戳](https://github.com/lstprjct/IDM-Activation-Script) 
