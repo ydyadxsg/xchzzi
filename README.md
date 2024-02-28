@@ -18,6 +18,7 @@
   
   网站合集 [来自墨鱼](https://github.com/ddgksf2013/WebSite)
 
+  阿威十八式[不止十八](https://sex-positions.online/zh-cn/)
 # 自用资源
 好用的 👉[戳戳戳](https://github.com/ydyadxsg/xchzzi/releases)
 
