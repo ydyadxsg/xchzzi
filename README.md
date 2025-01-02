@@ -7,6 +7,8 @@
 
   百宝箱[🗿模块合集](https://whatshub.top)
 
+  软件库(https://doc.qianqian.club)
+
 # 影视资源
   可可影视 [就是这儿](https://kekys.com)
 
