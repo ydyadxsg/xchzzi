@@ -1,5 +1,5 @@
 # 魔法
-  
+  //     []()
 
   配置文件（小火箭）[猜猜哪来的](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/shadowrocket.conf)
 
@@ -11,6 +11,7 @@
   
   一次性邮箱[📮邮箱](https://tempmailpro.org/zh)
 
+  歌单搬家[🎶歌单](https://playlist.victor42.work/)
 # 影视资源
   可可影视 [就是这儿](https://kekys.com)
 
