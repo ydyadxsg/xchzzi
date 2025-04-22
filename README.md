@@ -3,7 +3,7 @@
 
   配置文件（小火箭）[模版](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/shadowrocket.conf)
   
-  配置文件（风车）[模版](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/quantumultx.conf)
+  配置备份（风车）[模版](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/quantumultx.conf)
 
   白嫖机场 [白嫖](https://t.me/jc_stores)
 
