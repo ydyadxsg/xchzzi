@@ -1,9 +1,11 @@
 # 魔法
    []()
 
-  配置文件（小火箭）[猜猜哪来的](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/shadowrocket.conf)
+  配置文件（小火箭）[模版](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/shadowrocket.conf)
+  
+  配置文件（风车）[模版](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/.conf)
 
-  白嫖机场 [白嫖怪](https://t.me/jc_stores)
+  白嫖机场 [白嫖](https://t.me/jc_stores)
 
   百宝箱[🗿模块合集](https://whatshub.top)
 
@@ -17,28 +19,15 @@
 
   知乎小故事[盐选📖](https://onehu.xyz/categories/)
 # 影视资源
-  可可影视 [就是这儿](https://kekys.com)
+  可可影视 [影视](https://kekys.com)
 
-  追剧达人 [来吧官人](https://zjos.cc)
+  追剧达人 [影视](https://zjos.cc)
 
-  电影猎手 [不太稳定](https://dmfilm.site/)
-
-  搬运合集 [来自墨鱼](https://ddgksf2013.notion.site/IOS-Android-TV-Web-AppleTV-737275e3de2c4def86196d8c982ef86e)
+  电影猎手 [影视](https://dmfilm.site/)
   
-  网站合集 [来自墨鱼](https://github.com/ddgksf2013/WebSite)
+  网站合集 [影视](https://github.com/ddgksf2013/WebSite)
 
   阿威十八式[不止十八](https://sex-positions.online/zh-cn/)
-# 自用资源
-好用的 👉[戳戳戳](https://github.com/ydyadxsg/xchzzi/releases)
 
-毛子网站 👉[戳戳戳](https://thebyrut.org/)
+  毛子网站 👉[游戏](https://thebyrut.org/)
 
-正则表达式简要学习👉[戳戳戳](https://github.com/cdoco/learn-regex-zh?tab=readme-ov-file)
-
-哔站布局自定 👉[戳戳戳](https://github.com/BiliUniverse/Universe/wiki/%E2%9A%99-Enhanced#%E7%AE%80%E4%BB%8B)
-
-哔站自动换区 👉[戳戳戳](https://github.com/BiliUniverse/Universe/wiki/%F0%9F%8C%90-Global#%E7%AE%80%E4%BB%8B)
-
-哔站广告屏蔽 👉[戳戳戳](https://github.com/BiliUniverse/Universe/wiki/%F0%9F%9B%A1-ADBlock#%E7%AE%80%E4%BB%8B)
-
-IDM激活     👉[戳戳戳](https://github.com/lstprjct/IDM-Activation-Script) 
