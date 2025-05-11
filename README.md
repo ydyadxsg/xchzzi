@@ -18,6 +18,11 @@
   歌单搬家[🎶歌单](https://playlist.victor42.work/)
 
   知乎小故事[盐选📖](https://onehu.xyz/categories/)
+
+  跨平台互传[快传](https://folderport.com/zh)
+
+  酷狗pc端[pc](https://folderport.com/zh)
+
 # 影视资源
   可可影视 [影视](https://kekys.com)
 
