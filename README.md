@@ -1,9 +1,9 @@
 # 魔法
    []()
 
-  配置文件（小火箭）[模版](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/shadowrocket.conf)
+  配置文件（小火箭）[模版](https://raw.bgithub.xyz/ydyadxsg/xchzzi/main/Quantumultx/shadowrocket.conf)
   
-  配置备份（风车）[模版](https://raw.githubusercontent.com/ydyadxsg/xchzzi/main/Quantumultx/quantumultx.conf)
+  配置备份（风车）[模版](https://raw.bgithub.xyz/ydyadxsg/xchzzi/main/Quantumultx/quantumultx.conf)
 
   白嫖机场 [白嫖](https://t.me/jc_stores)
 
@@ -20,7 +20,7 @@
 
   知乎小故事[盐选📖](https://onehu.xyz/categories/)
 
-  酷狗pc端[💿pc](https://folderport.com/zh)
+  酷狗pc端[💿pc](https://music.moekoe.cn/)
 
 # 影视资源
   可可影视 [影视](https://kekys.com)
