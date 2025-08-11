@@ -21,6 +21,9 @@
   知乎小故事[盐选📖](https://onehu.xyz/categories/)
 
   酷狗pc端[💿pc](https://music.moekoe.cn/)
+  
+  PDF工具[工具]（https://github.com/DDULDDUCK/every-pdf/releases）
+
 
 # 影视资源
   可可影视 [影视](https://kekys.com)
