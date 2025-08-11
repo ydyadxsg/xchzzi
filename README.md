@@ -22,7 +22,7 @@
 
   酷狗pc端[💿pc](https://music.moekoe.cn/)
   
-  PDF工具[工具]（https://github.com/DDULDDUCK/every-pdf/releases）
+  PDF工具[工具](https://github.com/DDULDDUCK/every-pdf/releases)
 
 
 # 影视资源
