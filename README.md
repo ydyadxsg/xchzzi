@@ -25,6 +25,8 @@
   
   PDF工具[工具](https://github.com/DDULDDUCK/every-pdf/releases)
 
+  小火箭共享ID[🛸](https://id.bocchi.vip/)
+
 
 # 影视资源
   可可影视 [影视](https://kekys.com)
