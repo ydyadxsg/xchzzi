@@ -27,6 +27,8 @@
 
   小火箭共享ID[🛸](https://id.bocchi.vip/)
 
+  免费资源平台[🍄](https://fmhy.pages.dev/)
+
 
 # 影视资源
   可可影视 [影视](https://kekys.com)
