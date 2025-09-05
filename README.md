@@ -15,13 +15,11 @@
          
   更好用的一次性[📮邮箱](https://mail.sunls.de/)
           
-  一次性手机[📱手机](https://receive-smss.com/)
+  一次性手机，大多数失效[📱手机](https://receive-smss.com/)
 
   歌单搬家[🎶歌单](https://playlist.victor42.work/)
 
   知乎小故事[盐选📖](https://onehu.xyz/categories/)
-  
-  PDF工具[工具](https://github.com/DDULDDUCK/every-pdf/releases)
 
   小火箭共享ID[🛸](https://id.bocchi.vip/)
 
