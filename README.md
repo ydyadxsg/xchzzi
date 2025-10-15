@@ -25,6 +25,8 @@
 
   好用网站大合集[CHICK](https://github.com/ddgksf2013/WebSite)
 
+  网页版ps[PS](https://www.photopea.com/)
+
 
 # 影视资源
   可可影视 [影视](https://kekys.com)
