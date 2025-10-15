@@ -1,5 +1,5 @@
 # 魔法
-   []()
+
 
   配置文件（小火箭）[模版](https://raw.bgithub.xyz/ydyadxsg/xchzzi/main/Quantumultx/shadowrocket.conf)
   
@@ -14,8 +14,6 @@
   一次性邮箱[📮邮箱](https://tempmailpro.org/zh)
          
   更好用的一次性[📮邮箱](https://mail.sunls.de/)
-          
-  一次性手机，大多数失效[📱手机](https://receive-smss.com/)
 
   歌单搬家[🎶歌单](https://playlist.victor42.work/)
 
@@ -24,6 +22,8 @@
   小火箭共享ID[🛸](https://id.bocchi.vip/)
 
   免费资源平台[🍄](https://fmhy.pages.dev/)
+
+  好用网站大合集[CHICK](https://github.com/ddgksf2013/WebSite)
 
 
 # 影视资源
