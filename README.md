@@ -27,6 +27,8 @@
 
   网页版ps[PS](https://www.photopea.com/)
 
+  抖音解析[去水印](https://www.hellotik.app/zh/douyin)
+
 
 # 影视资源
   可可影视 [影视](https://kekys.com)
