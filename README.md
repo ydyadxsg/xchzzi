@@ -29,7 +29,7 @@
 
   抖音解析[去水印](https://www.hellotik.app/zh/douyin)
 
-  微信防撤回多开补丁[11](https://github.com/afaa1991/BetterWX-UI/releases)
+  微信防撤回多开补丁[🍮](https://github.com/afaa1991/BetterWX-UI/releases)
 
 # 影视资源
   可可影视 [影视](https://kekys.com)
