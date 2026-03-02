@@ -19,10 +19,6 @@
 
   知乎小故事[盐选📖](https://onehu.xyz/categories/)
 
-  小火箭共享ID[🛸](https://id.bocchi.vip/)
-
-  免费资源平台[🍄](https://fmhy.pages.dev/)
-
   好用网站大合集[CHICK](https://github.com/ddgksf2013/WebSite)
 
   网页版ps[PS](https://www.photopea.com/)
