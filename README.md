@@ -30,11 +30,9 @@
 # 影视资源
   可可影视 [影视](https://kekys.com)
 
-  追剧达人 [影视](https://zjos.cc)
+  大师兄影视 [影视](https://dsxys.com)
 
-  电影猎手 [影视](https://dmfilm.site/)
-  
-  网站合集 [影视](https://github.com/ddgksf2013/WebSite)
+  电影猎手 [影视](https://dytt8.app)
 
   阿威十八式[不止十八](https://sex-positions.online/zh-cn/)
 
