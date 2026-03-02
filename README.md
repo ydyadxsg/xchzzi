@@ -19,7 +19,7 @@
 
   知乎小故事[盐选📖](https://onehu.xyz/categories/)
 
-  好用网站大合集[CHICK](https://github.com/ddgksf2013/WebSite)
+  免费资源平台[CHICK](https://fmhy.pages.dev/)
 
   网页版ps[PS](https://www.photopea.com/)
 
